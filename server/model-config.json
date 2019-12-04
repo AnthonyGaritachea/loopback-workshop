@@ -34,5 +34,13 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "player": {
+    "dataSource": "db",
+    "public": true
+  },
+  "team": {
+    "dataSource": "db",
+    "public": true
   }
 }
